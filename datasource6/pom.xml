@@ -3,7 +3,7 @@
 
   <groupId>kz.erg</groupId>
   <artifactId>datasource6</artifactId>
-  <version>0.0.4-SNAPSHOT</version>
+  <version>0.0.4</version>
   <packaging>jar</packaging>
 
   <name>datasource6</name>
@@ -18,7 +18,7 @@
 	   <connection>scm:git:https://github.com/IgorKondratyuk/datasource6.git</connection>
 	   <url>https://github.com/IgorKondratyuk/datasource6</url>
 	   <developerConnection>scm:git:https://github.com/IgorKondratyuk/datasource6.git</developerConnection>
-	   <tag>${version}</tag>
+	   <tag>0.0.4-SNAPSHOT</tag>
 	</scm>
 
 	<repositories>
